@@ -1,5 +1,5 @@
 
-- I'm currently working on [oar](https://github.com/oar-team/oar3)
+I'm currently working on [oar](https://github.com/oar-team/oar3).
 
 <!--
 **adfaure/adfaure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
