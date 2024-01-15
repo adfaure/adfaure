@@ -1,6 +1,6 @@
 # adfaure
 
-- I'm currently working on [oar](https://github.com/oar-team/oar3).
+- I am open to work, feel free ton contact me (contact information on my website).
 - My personal [website](https://adfaure.github.io).
 
 
