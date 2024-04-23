@@ -23,5 +23,5 @@ My activities:
 After three years of PhD in France, I worked on [oar3](https://github.com/oar-team/oar3) a batch scheduler for HPC platforms as an engineer.
 
 ## Github Stats
-![lang](https://github-readme-stats.vercel.app/api/top-langs?username=adfaure&layout=compact&exclude_repo=qmk)
 ![adfaure](https://github-readme-stats.vercel.app/api?username=adfaure)
+![lang](https://github-readme-stats.vercel.app/api/top-langs?username=adfaure&layout=compact&exclude_repo=qmk)
