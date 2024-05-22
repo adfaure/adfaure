@@ -19,7 +19,7 @@ My activities:
 - Technical and scientific writing
 - Teaching and talk show
 
-## Paste experiences
+## Past experiences
 After three years of PhD in France, I worked on [oar3](https://github.com/oar-team/oar3) a batch scheduler for HPC platforms as an engineer.
 
 ## Github Stats
