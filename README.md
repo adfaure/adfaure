@@ -18,11 +18,14 @@ My activities:
 - System architecture and full-stack development
 - System scalability and back development
 - DevPops and SRE
+- Nix support
 - Technical and scientific writing
 - Teaching and talk show
 
 ## Past experiences
 After three years of PhD in France, I worked on [oar3](https://github.com/oar-team/oar3) a batch scheduler for HPC platforms as an engineer.
 
+
+--------
 ![adfaure](https://github-readme-stats.vercel.app/api?username=adfaure)
 ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=adfaure&layout=compact&exclude_repo=qmk)
