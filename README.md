@@ -11,7 +11,8 @@ As a Nix enthusiast, I took some time to configure my system. You can check my [
 My personal [website](https://adfaure.github.io).
 
 ## As a Freelancer
-I am open to work, feel free ton contact me via [mail](mailto:adfaure@protonmail.com) or via matrix @adfaure:matrix.org..
+I am open to work, feel free ton contact me via [mail](mailto:adfaure@protonmail.com) or via matrix @adfaure:matrix.org.
+You can directly book a meeting for free [here](https://cal.com/adfaure), I'd be happy to answer your questions or discuss anything about Computer Science.
 
 My activities:
 - System architecture and full-stack development
